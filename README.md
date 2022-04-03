@@ -88,7 +88,7 @@ configuration for the typescript compiler.
 - noFallthroughCasesInSwitch, it ensures that there are no fallthrough cases in switch statements. The default is false.
 
 
-## Debug
+## DeDebug
 
 Use the Debugger for Chrome to debug your code alongside source maps.
 
