@@ -11,6 +11,7 @@
     - [Strict Type Checking](#strict-type-checking)
     - [Additional Checks](#additional-checks)
 - [Debug](#debug)
+- [Trivia](#trivia)
 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -90,3 +91,7 @@ configuration for the typescript compiler.
 ## Debug
 
 Use the Debugger for Chrome to debug your code alongside source maps.
+
+## Trivia
+
+Never Thought I would have a repo that mainly consists of a README.md file. 🎊 I'm glad I did.
